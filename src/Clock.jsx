@@ -15,7 +15,7 @@ const Clock = () =>{
     };
 
    
-  setInterval(updateTime, 1000);
+  setInterval(updateTime, 1000); // hm yha par interval lga diye ki har ek second par update hote rhe aur screen par dikhate rhe bina button par click kiye 
 
 
 
